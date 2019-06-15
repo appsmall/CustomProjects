@@ -1,0 +1,16 @@
+PODS:
+  - FloatingPanel (0.9)
+
+DEPENDENCIES:
+  - FloatingPanel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FloatingPanel
+
+SPEC CHECKSUMS:
+  FloatingPanel: 2652a6157da289f50868077c589235d678dab675
+
+PODFILE CHECKSUM: cfa44e4e38e55a9f84a51da95aa66ec39ff7a5ba
+
+COCOAPODS: 1.5.3
